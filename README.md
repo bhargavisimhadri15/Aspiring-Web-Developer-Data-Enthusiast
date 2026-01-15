@@ -93,7 +93,3 @@ Welcome to my portfolio! Here, I showcase some of my projects in **Web Developme
 * GitHub: https://github.com/bhargavisimhadri15
 * LinkedIn: https://www.linkedin.com/in/57a226268/
 * Email: bhargavisimhadri1998@gmail.com
-
---
-
-Do you want me to make that enhanced version for you?
